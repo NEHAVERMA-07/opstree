@@ -28,7 +28,7 @@
   <repository>
     <id>releases</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://34.68.214.8:8081/repository/release/</url>
+    <url>http://34.68.214.8:8081/repository/releases/</url>
   </repository>
   <snapshotRepository>
     <id>snapshots</id>
