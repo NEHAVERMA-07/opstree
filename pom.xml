@@ -28,20 +28,15 @@
 	
 	 <distributionManagement>
 	 <repository>
-     <id>releases</id>
+     <id>nexus</id>
      <name>releases</name>
      <url>http://34.68.214.8:8081/repository/releases/</url>
    </repository>
 	<snapshotRepository>
-          <id>snapshots</id>
+          <id>nexus</id>
           <name>snapshots</name>
           <url>http://34.68.214.8:8081/repository/snapshots/</url>
         </snapshotRepository>
-	<repository>	 
-      <id>third-party</id>
-      <name>third-party</name>
-     <url>http://34.68.214.8:8081/repository/third-party/</url>
-   </repository>
  
  </distributionManagement>
 	
